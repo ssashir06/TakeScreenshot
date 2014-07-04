@@ -1,0 +1,3 @@
+[submodule "Open-XML-SDK"]
+	path = Open-XML-SDK
+	url = https://github.com/OfficeDev/Open-XML-SDK.git
